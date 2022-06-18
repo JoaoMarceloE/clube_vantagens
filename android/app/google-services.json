@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "111210142819",
+    "firebase_url": "https://app-comercial-ae2dc.firebaseio.com",
+    "project_id": "app-comercial-ae2dc",
+    "storage_bucket": "app-comercial-ae2dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111210142819:android:394c76cca94e61158aec56",
+        "android_client_info": {
+          "package_name": "joao.marcelo.clubevantagens.campinas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111210142819-fu3aepija9ng89fef0uc8s80iunm6r0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joao.marcelo.clubevantagens.campinas",
+            "certificate_hash": "5456365ec6343c0eb199b8e5dae8d2840bee832f"
+          }
+        },
+        {
+          "client_id": "111210142819-ic0kha2808gf1jp4534lrkg6g6bh50uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joao.marcelo.clubevantagens.campinas",
+            "certificate_hash": "3bf9d82b2734eaaf24e49507e06a83aa4d13e4b2"
+          }
+        },
+        {
+          "client_id": "111210142819-snblion7l515847hjbll6v4ht6oki986.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joao.marcelo.clubevantagens.campinas",
+            "certificate_hash": "3c77675b6a288f0d8aacebf064dbce11cab4d0d5"
+          }
+        },
+        {
+          "client_id": "111210142819-u5ce8c1oo0f6443l3orrcucp88qtk16a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joao.marcelo.clubevantagens.campinas",
+            "certificate_hash": "6dba79a5a91dbefce33cee27b01b889bce8d4e58"
+          }
+        },
+        {
+          "client_id": "111210142819-sotf5dosd7eb05ae3dd9m7u5koartjhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFuqq2j4vTLF_i7inu5nJRA31hYitdPGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111210142819-sotf5dosd7eb05ae3dd9m7u5koartjhu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "111210142819-pdiuanbrp6h4v8atj4o9lq25m4a3ohch.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
